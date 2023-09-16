@@ -5,6 +5,8 @@ The dataset can be accessed in Dataset folder. It consists a CSV file as `olist_
 
 You can find the update dataset through [Kaggle Website](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
+![Alt text](Images/olist-ecommerce.png)
+
 ## Package
 Please ensure that you have import important packages as follows:
 ```
